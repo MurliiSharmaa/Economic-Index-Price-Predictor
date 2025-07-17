@@ -1,7 +1,9 @@
 # Economic-Index-Price-Predictor
 # 📈 Economic Index Price Predictor using Streamlit & Machine Learning
-![Economic Index Price Prediction](<img width="1899" height="864" alt="image" src="https://github.com/user-attachments/assets/1764db5f-2775-4b97-9c76-b7d8484f6471" />
-)
+## 🎥 Demo Screenshot
+
+![App Demo](images/demo.png)
+
 ## 📌 Project Overview
 This project predicts the **Economic Index Price** based on two key macroeconomic indicators:
 - **Interest Rate**
