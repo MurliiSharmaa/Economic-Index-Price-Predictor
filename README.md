@@ -49,6 +49,6 @@ Enable analysts and economists to:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/economic-index-price-predictor.git
+git clone https://github.com/MurliiSharmaa/Economic-Index-Price-Predictor.git
 cd economic-index-price-predictor
 
