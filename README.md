@@ -2,7 +2,10 @@
 # 📈 Economic Index Price Predictor using Streamlit & Machine Learning
 ## 🎥 Demo Screenshot
 
-![App Demo](images/demo.png)
+<p align="center">
+  <img src="Screenshot 2025-07-17 203920.png" width="1200" title="hover text">
+  
+</p>
 
 ## 📌 Project Overview
 This project predicts the **Economic Index Price** based on two key macroeconomic indicators:
